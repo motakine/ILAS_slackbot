@@ -1,0 +1,5 @@
+﻿API_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' # 取得したtokenを記載
+
+DEFAULT_REPLY = 'わかるわ'
+
+PLUGINS = ['plugins'] # 作成したプラグインモジュールのフォルダ名
