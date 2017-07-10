@@ -1,0 +1,2 @@
+Ctrl + Shift + 右クリック、コマンドプロンプト（あるいはpowershell）を開く。
+「python run.py」と入力。ILASのslackを開くと自分のbotが起動しているのでそこでいい感じに。
